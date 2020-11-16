@@ -11,6 +11,7 @@ import java.util.ArrayList;
 
 /**
  * Created by thkcheng on 2017/12/23.
+ * 主入口
  */
 public class MainActivity extends AppCompatActivity {
 
